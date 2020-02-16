@@ -71,3 +71,8 @@
 !**/ios/**/default.pbxuser
 !**/ios/**/default.perspectivev3
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
+
+
+**school.jks
+**upload_certificate.pem
+**google-services.json
