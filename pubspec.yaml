@@ -1,0 +1,57 @@
+name: school
+description: A new Flutter application that allows users to set up their school timetable and course details created by Mustapha Abdullah Oladimeji.
+
+version: 1.5.0+5
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  cloud_firestore:
+  firebase_auth:
+  google_sign_in:
+  auto_size_text:
+  flutter_spinkit:
+  flutter_auth_buttons:
+  firebase_messaging:
+  admob_flutter:
+  splashscreen:
+  font_awesome_flutter:
+  flutter_slidable:
+  rate_my_app:
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - images/
+
+  fonts:
+    - family: Permanent Marker
+      fonts:
+        - asset: fonts/PermanentMarker-Regular.ttf
+
+    - family: Chewy
+      fonts:
+        - asset: fonts/Chewy-Regular.ttf
+
+    - family: libre franklin
+      fonts:
+        - asset: fonts/LibreFranklin-Light.ttf
+
+    - family: Source serif pro
+      fonts:
+        - asset: fonts/SourceSerifPro-Regular.ttf
+
+

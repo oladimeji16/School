@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "793966501223",
+    "firebase_url": "https://school-b-fc49d.firebaseio.com",
+    "project_id": "school-b-fc49d",
+    "storage_bucket": "school-b-fc49d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793966501223:android:cd8ef26e73bcbf1b0c63c2",
+        "android_client_info": {
+          "package_name": "com.oladimeji.school"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793966501223-o9j35hvctn4paaikqd8dp0oubg0dcgv1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oladimeji.school",
+            "certificate_hash": "66405605361542e25995a83a23dfa2be0856e62c"
+          }
+        },
+        {
+          "client_id": "793966501223-nbg7tiaka730tf38nkc965bf1vsan59f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJfzJ_epK4y8kW86Ce_BpGs8VSmABk1AI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793966501223-nbg7tiaka730tf38nkc965bf1vsan59f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
